@@ -1,0 +1,6 @@
+{
+  "name": "نحو إنترنت حر",
+  "description": "منصة خالدة للتوعية بالخصوصية والبرمجيات الحرة واستعادة السيادة الرقمية للإنسان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
